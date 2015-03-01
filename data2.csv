@@ -1,0 +1,8 @@
+Node.Person.UniqueName;Node.Person.FirstName;Node.Person.LastName;Node.Person.EmailWork;Rel.WorkedAt.Company;Rel.WorkedAt.Company.JobTitle;Rel.WorkedAt.Company.UntilDate
+Tom Smith;Tom;Smith;smitht@newco.com2;New Company;Partner;20140101
+Man Stockholm;Man;Stockholm;abcd@yahoo.com;Zoomcast;Level 3 Operations Architect;
+Mureto Saraki;Mureto;Saraki;msaraki@murathatconsulting.com;Murat Hat Consulting;Director of Recruiting;
+Cherry Price;Cherry;Price;cprice@singersol.com;Singer Solutions;Director;
+Man Stockholm;Man;Stockholm;hede@hodo.com;Bodo;Modo;
+Bill Jones;Bill;Jones;bill@jones.com;Meintech Solutions;CTO;20120104
+Cherry Price;Cherry;Price;modo@bodo.com;Meintech Solutions;Director Southwest Region;

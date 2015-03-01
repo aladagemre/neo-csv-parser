@@ -1,0 +1,5 @@
+Node.Person.UniqueName;Rel.Likes.Person;Rel.Likes.Person.Rating
+Bill Jones;Tom Smith;5
+Bill Jones;Jessy Brown;4
+Tom Smith;Bill Jones;3
+Cherry Price;Tom Smith;2
